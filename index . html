@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRYPTO'S WAY</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Crypto's Way Logo">
+        <a href="https://t.me/yourtelegram" class="telegram-button">انضم إلينا في تيليجرام</a>
+    </header>
+    <h1>مرحبًا بكم في CRYPTO'S WAY</h1>
+    <p>نحن نقدم أفضل خدمات العملات الرقمية والإيردروبات.</p>
+</body>
+</html>
